@@ -14,14 +14,14 @@ Table name: student
 
 Createing Sql as: 
 
-Create table student(
-  id int not null AUTO_INCREMENT Primary Key,
-  name varchar(99) not null,
-  mobile varchar(99) not null,
-  email varchar(99) default null,
-  present_address varchar(99) default null,
-  Permanent_address varchar(99) not null
-);
+      Create table student(
+        id int not null AUTO_INCREMENT Primary Key,
+        name varchar(99) not null,
+        mobile varchar(99) not null,
+        email varchar(99) default null,
+        present_address varchar(99) default null,
+        Permanent_address varchar(99) not null
+      );
 
 
 URI List:
