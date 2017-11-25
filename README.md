@@ -25,6 +25,7 @@ Create table student(
 
 
 URI List:
+
           GET
        1| http://localhost:8080/AssignmentProject/student/list 
           for showing student list.
